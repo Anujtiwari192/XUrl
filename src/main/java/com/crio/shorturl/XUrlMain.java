@@ -29,7 +29,7 @@ public class XUrlMain {
 
     System.out.println(url5);
     System.out.println(url6);
-    System.out.println(urlNull);
+    // System.out.println(urlNull);
 
     // Test out longURL lookup based on the shortURL input
     assert(xUrl.getUrl(url).equals("http://abc.com"));
